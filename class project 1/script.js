@@ -17,3 +17,7 @@ function getAns(){
     document.getElementById('result').value = eval(document.getElementById('result').value)
     console.log(document.getElementById('result').value)
 }
+
+function getNum(){
+    
+}
